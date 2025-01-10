@@ -133,7 +133,7 @@ extras_require_xbr = [
     'py-eth-sig-utils>=0.4.0',  # MIT license (https://github.com/rmeissner/py-eth-sig-utils)
     'py-ecc>=5.1.0',            # MIT license (https://github.com/ethereum/py_ecc)
 
-    'eth-abi==4.0.0b2',           # MIT license (https://github.com/ethereum/eth-abi)
+    'eth-abi==4.0.0',           # MIT license (https://github.com/ethereum/eth-abi)
 
     # the following is needed (at least) for BIP32/39 mnemonic processing
     'mnemonic>=0.19',           # MIT license (https://github.com/trezor/python-mnemonic)
